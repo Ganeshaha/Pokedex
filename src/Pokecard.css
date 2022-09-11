@@ -1,0 +1,10 @@
+.pokemon{
+    background-color: gray;
+    border-radius: 1rem;
+    width: 15rem;
+    display: inline-block;
+    margin: 1rem;
+}
+.pokelist{
+
+}
